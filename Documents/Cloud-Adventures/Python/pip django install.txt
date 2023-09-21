@@ -1,0 +1,35 @@
+1. pip install for windows
+ 
+pip install package_name
+
+
+
+2. Always check if there is new version to upgrade to. If so copy and run upgrade as below
+
+C:\Users\naco40008\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+
+we are
+3. Check pip version
+
+py -m pip --version
+
+if it still display: Module not found.
+
+
+
+4. Python get pip install
+
+python get-pip.py
+
+
+
+---------------
+INSTALL DJANGO
+---------------
+
+
+1. Install django
+
+ python -m pip install Django
+
+
